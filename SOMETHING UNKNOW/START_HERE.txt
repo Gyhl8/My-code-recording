@@ -1,0 +1,45 @@
+╔═══════════════════════════════════════════════════════════════════╗
+║                                                                                                                                                                ║
+║                    🚨  READ THIS FIRST                                                                                                         ║
+║                                                                                                                                                                ║
+║                    Welcome to the ARG.                                                                                                         ║
+║                                                                                                                                                                ║
+║                    Everything you need is in this folder.                                                                                 ║
+║                    But nothing is visible.                                                                                                         ║
+║                                                                                                                                                                ║
+║                    Because the truth must be discovered.                                                                              ║
+║                                                                                                                                                                 ║
+╚═══════════════════════════════════════════════════════════════════╝
+
+📟 ARG ALERT: We have hidden documents in this folder.
+
+🔑 HIDDEN FILE COMMAND:
+   In Terminal (macOS/Linux):    ls -a
+   In Command Prompt (Windows):  dir /a
+
+📂 What to look for:
+   Files and folders starting with a dot "."
+
+💡 Example:
+   $ ls -a
+   .  ..  ._ARCHIVE/  🚨 START_HERE.txt
+
+📄 Once you find .URGENT_README.txt, read it.
+   Then follow the instructions inside.
+
+The truth is waiting for you.
+
+— The Archivist
+
+P.S. Every file in this ARG is hidden.
+     Every file must be discovered.
+     Every discovery brings you closer to the truth.
+
+P.P.S. Look for: ._ARCHIVE/
+       Look for: .URGENT_README.txt
+       Look for: .REVELATION.txt
+
+P.P.P.S. Good luck. You'll need it.
+⚠️WARNING 
+Something has been waiting since 2022
+Something wants to be remembered
